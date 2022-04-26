@@ -1,0 +1,9 @@
+:root {
+  --color-primary: #350743;
+  --color-white: #FFFFFF;
+}
+
+.output {
+  border: 1px solid red;
+}
+/*# sourceMappingURL=style.css.map */
